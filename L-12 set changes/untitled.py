@@ -7,5 +7,9 @@ myset={
 }
 def adding_set(name,changes):
     myset[name]=changes
-    print (f'the name you gave and changes you wanted to make has been done')
+    print (f'the name you gave and changes you wanted to make has been done to {name} and {changes}')
     print(myset)
+
+
+
+
